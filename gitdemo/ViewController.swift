@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     
     func setUpLabel(){
         label.text = "hello world"
+        label.textColor = .blue
     }
     
 
